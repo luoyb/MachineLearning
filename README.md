@@ -1,3 +1,3 @@
 # MachineLearning
 
-THIS IS MY MACHINE LEARNING CODE
+this is my machine learning code of python
